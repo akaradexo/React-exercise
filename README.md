@@ -9,5 +9,5 @@ Basic react exercise on CodeSandbox.io
 
 4. [Size and font changer](https://codesandbox.io/s/size-and-font-changer-08c00)
  
-5.[Change-theme](https://codesandbox.io/s/change-theme-4xo2l?file=/src/App.js)
+5. [Change-theme](https://codesandbox.io/s/change-theme-4xo2l?file=/src/App.js)
 
